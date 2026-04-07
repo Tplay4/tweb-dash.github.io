@@ -149,6 +149,12 @@ window.allLevels = [
 	    "level_128",
 	    "DJVI"
     ],
+	[
+        "test_level",
+	    "Test Level",
+	    "level_999",
+	    "idk"
+    ],
     [
         "the_nightmare",
 	    "The Nightmare",
