@@ -143,6 +143,12 @@ window.allLevels = [
 	    "level_100",
 	    "Dimrain47"
     ],
+	[
+        "1st_level",
+	    "1st level",
+	    "level_128",
+	    "DJVI"
+    ],
     [
         "the_nightmare",
 	    "The Nightmare",
