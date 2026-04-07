@@ -1,14 +1,14 @@
 // editable config stuff 
 
 if (window.mainColor == null) {
-  window.mainColor = parseInt("fb2651", 16);
+  window.mainColor = parseInt("ffffff", 16);
 }
 if (window.secondaryColor == null) {
-  window.secondaryColor = parseInt("ffffff", 16);
+  window.secondaryColor = parseInt("00ff00", 16);
 }
-window.currentPlayer = "player_42";
-window.currentShip = "ship_44";
-window.currentBall = "player_ball_23"
+window.currentPlayer = "player_01";
+window.currentShip = "ship_01";
+window.currentBall = "player_ball_01"
 window.currentWave = "dart_01"
 window.currentlevel = [
 	"stereo_madness", // internal level name
