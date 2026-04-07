@@ -224,6 +224,9 @@ preload() {
 	this.load.text("level_128", "assets/levels/128.txt");
     this.load.audio("1st_level", "assets/music/BaseAfterBase.mp3");
 
+	this.load.text("level_999", "assets/levels/999.txt");
+    this.load.audio("test_level", "assets/music/StereoMadness.mp3");
+
     this.load.text("level_137409445", "assets/levels/137409445.txt");
     this.load.audio("three_step", "assets/music/ThreeStep.mp3");
 
